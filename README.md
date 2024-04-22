@@ -1,1 +1,1 @@
-# froxx-admin-panel
+# froxx-admin-panel-backend
